@@ -14,3 +14,13 @@ In the repository, it contains two seperate python codes and one folder (which c
 1. 'part_1_mars_news' - first part of the python code which is scalping the website by extracting the text elements (which is shown through pressing F12)
 2. 'part_2_mars_weathers' - second part of the python code which is scalping the website containing a table data, used the raw table to display various graphs. At the end of the script, it
      export the exported csv file into the folder. (NOTE: to make sure the export code works, go to the folder and delete the csv file) 
+Below shows the min_temp based on the total days in mars
+
+
+
+
+
+
+
+
+![image](https://github.com/Nisloen/Assignment-11-Web-Scalping/assets/134130254/80ef0c89-5e2b-42a0-9104-e8b92f27d61e)
