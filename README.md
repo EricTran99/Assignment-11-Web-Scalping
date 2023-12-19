@@ -29,6 +29,6 @@ The second observation was to analysed the difference in atomspheric pressure an
 The third visual graph showed the change in Mars' minimal temperature across the terrestrial days. The graph showed certain peaks in the temperature that looks like outliners. However, due to the values coming from an offical Mars data website. It's unlikely to be an error, and thus being likely an unknown impact contributed to the Mars temperature not being aligned within the trend. <br/> 
 ![image](https://github.com/Nisloen/Assignment-11-Web-Scalping/assets/134130254/80ef0c89-5e2b-42a0-9104-e8b92f27d61e)
  <br/>
-#Summary
+# Summary
 The overall process in web scraping was mainly to learn the extracted processing with the first coding script testing on understanding the process with the Mars news. The second script takes the method and incorporate the process by creating graphs for analysis. The Mars temperature data was used to showcase insight upon which month had the highest and lowest temperature and atmospheric pressure. Lastly, the scraped data was exported into the file as a _csv_ which can be seen without the need to run the script.
 
